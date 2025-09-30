@@ -2,8 +2,8 @@ import cv2
 import easyocr
 import matplotlib.pyplot as plt
 
-# Load the image
-image_path = 'car2.jpg'  # replace with your image file
+# Load the image1
+image_path = 'car1.jpg'  # replace with your image file
 image = cv2.imread(image_path)
 
 # Optional: Resize for consistency
